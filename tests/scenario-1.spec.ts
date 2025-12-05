@@ -2,7 +2,7 @@
  * This file contains UI tests for Scenario 1
  */
 
-import { expect } from "@playwright/test";
+import { expect } from "@playwright/test"
 import { test } from "../utils/fixtures";
 import { getUrl, login, logout } from "../utils/utils";
 
