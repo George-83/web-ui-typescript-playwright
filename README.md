@@ -1,6 +1,6 @@
 # WEB UI Test project TypeScript + Playwright
 
-This project provides automated tests for the public web site [https://www.saucedemo.com/](https://www.saucedemo.com/), built using **TypeScript** and the **Playwright** framework.
+This project provides automated tests for the public website [https://www.saucedemo.com/](https://www.saucedemo.com/), built using **TypeScript** and the **Playwright** framework.
 
 ## 📁 Project Structure
 
